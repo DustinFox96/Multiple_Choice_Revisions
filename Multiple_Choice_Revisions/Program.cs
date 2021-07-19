@@ -54,6 +54,7 @@ namespace Multiple_Choice_Revisions
 
             #region Format two
 
+            // function created to create more custom feedback 
             static void NoInputChoice()
             {
                 Console.WriteLine("You did not input a choice");
